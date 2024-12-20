@@ -1,4 +1,4 @@
-package com.loksuvidha
+package com.leetcode
 
 import android.app.Application
 import com.facebook.react.PackageList
